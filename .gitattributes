@@ -1,0 +1,4 @@
+*.doc diff=word
+*.xsl diff=excel
+*.xlsx diff=excel
+*.docx diff=zip
